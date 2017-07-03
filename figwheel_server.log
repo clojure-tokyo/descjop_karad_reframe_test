@@ -1,0 +1,207 @@
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 2.191 seconds.[0m
+notifying browser that file changed:  app/dev/js/front.js
+notifying browser that file changed:  app/dev/js/out_front/goog/deps.js
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.388 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.945 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.582 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.409 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.408 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.438 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.316 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.377 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.374 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.383 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.391 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.368 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.357 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.369 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.337 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.357 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[31mFailed to compile "app/dev/js/front.js" in 0.296 seconds.[0m
+[36m----  Could not Analyze  src_front/reframe_test_front/core.cljs  ----[0m
+
+  [1mNo such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or Closure namespace "re-frame.core" [0m
+
+[36m----  Analysis Error : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.877 seconds.[0m
+notifying browser that file changed:  app/dev/js/front.js
+notifying browser that file changed:  app/dev/js/out_front/goog/deps.js
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.874 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.865 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.765 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.773 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.666 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.576 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.613 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[36m----  Compiler Warning on   src_front/reframe_test_front/core.cljs   line:17  column:19  ----[0m
+
+  [1mUse of undeclared Var reframe_test-front.core/window[0m
+
+  [36m14[0m  [36m(rf/reg-event-db[0m
+  [36m15[0m  [36m  :click-button[0m
+  [36m16[0m  [36m  (fn [db [_ _]][0m
+  [33m17[0m  [1m    (js/alert (.. window -location -href))[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var reframe_test-front.core/window[0m
+  [36m18[0m  [36m    (assoc db :message "Re-frame Clicked!")))[0m
+  [36m19[0m  [36m[0m
+  [36m20[0m  [36m;; subs[0m
+  [36m21[0m  [36m[0m
+  [36m22[0m  [36m(rf/reg-sub[0m
+
+[36m----  Compiler Warning : Please see src_front/reframe_test_front/core.cljs  ----[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.873 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.749 seconds.[0m
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.586 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.654 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.546 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.594 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.779 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.804 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.736 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.716 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.754 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.777 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.584 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
+[0mCompiling "app/dev/js/front.js" from ["src_front" "src_front_profile/reframe_test_front/dev"]...[0m
+[32mSuccessfully compiled "app/dev/js/front.js" in 0.759 seconds.[0m
+notifying browser that file changed:  app\dev\js\out_front\reframe_test_front\core.js
